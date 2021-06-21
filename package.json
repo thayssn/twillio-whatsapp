@@ -1,0 +1,24 @@
+{
+  "name": "twillio-whatsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thayssn/twillio-whatsapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thayssn/twillio-whatsapp/issues"
+  },
+  "homepage": "https://github.com/thayssn/twillio-whatsapp#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twilio": "^3.64.0"
+  }
+}
